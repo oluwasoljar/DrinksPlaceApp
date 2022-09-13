@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Drinks App</string>
+    <string name="loading">Starting App</string>
+    <string name="loading_msg">Please wait for some seconds</string>
+    <string name="sign_in">Sign In Page</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="forgot_pwd">Forgot password? Click Here</string>
+    <string name="sign_in_btn">Click To Sign In</string>
+    <string name="sign_up">Don\'t have an account?</string>
+    <string name="sign_up_btn">Click To Sign Up</string>
+    <string name="profile">Customer Profile</string>
+    <string name="sign_up_header">Sign Up Page</string>
+    <string name="home_header">Drinks Place...</string>
+    <string name="home_tagline">Home</string>
+    <string name="register">Register</string>
+    <string name="forgot">Enter your Registered E-mail</string>
+    <string name="retrieve">Retrieve Password</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="message">Your Password has been sent to your E-mail</string>
+
+
+    <string name="go_home">Click to go to Homepage</string>
+    <string name="cocoa">Cocoa Flavored</string>
+    <string name="shakes">Milk Flavored</string>
+    <string name="soft">Soft drinks</string>
+    <string name="cocktails">Cocktail Flavored</string>
+    <string name="specials">Our Specials</string>
+    <string name="explore">Explore Flavor</string>
+
+    <string name="row_item_title">Name</string>
+    <string name="row_item_sub">Description</string>
+
+    <string name="title">Main Title</string>
+    <string name="sub">Recipes</string>
+
+
+</resources>

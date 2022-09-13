@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="backgroundSplash">#2B2B2B</color>
+    <color name="login_bg">#635F5F</color>
+    <color name="welcomeColor">#FFFFFF</color>
+    <color name="sign_in_bg">#8B473B5E</color>
+    <color name="link_color">#070707</color>
+    <color name="bg_tint">#DAFFFFFF</color>
+    <color name="home_bg">#F2E3F4</color>
+    <color name="text">#FFFFFF</color>
+    <color name="row">#000</color>
+    <color name="row2">#A9A9A9</color>
+
+</resources>
